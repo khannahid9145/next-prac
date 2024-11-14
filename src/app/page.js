@@ -18,7 +18,9 @@ export default function Home() {
       </navbar>
 
       <div className="flex justify-center py-28">
-        <h1 className="bg-slate-500 h-80 w-60 rounded-lg flex justify-center justify-items-center py-11">here</h1>
+        <div className="bg-purple-300 h-80 w-96 rounded-lg flex justify-center justify-items-center">
+          <p className="h-7 border-b-2 w-80 border-black text-center font-mono">Text Style</p>
+        </div>
       </div>
     </>
 
